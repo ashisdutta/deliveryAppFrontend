@@ -41,7 +41,7 @@ export default function OwnerProfileScreen() {
         <UserInfo
           name="Vishal Khadok"
           bio="Restaurant Owner"
-          imageUrl="https://i.pravatar.cc/150?img=11"
+          //imageUrl="https://i.pravatar.cc/150?img=11"
         />
 
         {/* Group 1: Account & Business */}

@@ -78,7 +78,7 @@ export default function OwnerPersonalInfoScreen() {
         <UserInfo
           name={user.name || "Owner Name"}
           bio={roleDisplay}
-          imageUrl="https://i.pravatar.cc/150?img=11" // Hardcoded placeholder
+          //imageUrl="https://i.pravatar.cc/150?img=11" // Hardcoded placeholder
         />
 
         {/* Info Card */}
